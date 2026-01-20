@@ -59,8 +59,6 @@ The dashboard helps users understand patterns, trends, and key performance metri
 
 
   Objective of the Project
-
-  The goal of this project is to:
   
 	•	Demonstrate Power BI & DAX proficiency
 	•	Convert raw data into actionable insights
